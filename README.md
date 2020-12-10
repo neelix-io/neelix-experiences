@@ -11,3 +11,11 @@ Use this board to lodge feature requests or bug reports.
 ## Resources
 
 - [Feature and Bud Issue Tickets](https://github.com/neelix-io/neelix-experiences/issues)
+
+## Live service
+
+- [neelix.io](https://www.neelix.io/)
+
+## Brochureware
+
+- [Documentation](https://reflect.neelix.io)
