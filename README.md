@@ -8,7 +8,7 @@ Find out more at [https://reflect.neelix.io](https://reflect.neelix.io) .
 
 Use this board to lodge feature requests or bug reports.
 
-## Resources
+## Support
 
 - [Feature and Bud Issue Tickets](https://github.com/neelix-io/neelix-experiences/issues)
 
