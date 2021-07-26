@@ -1,10 +1,8 @@
-![Neelix.IO](https://storage.googleapis.com/neelix-public-bucket-1/neelix-logo-full.png)
+![Neelix.IO](https://res.cloudinary.com/neelix-io/image/upload/v1627276176/logos/neelix-logo-320-132_wvn3qk.png)
 # Community Support
 
-## Systemic transparency, connections and understanding causality
-Enrich your self-reflection with experience streams and conversation focused retrospectives.
-Visualise causality between experiences. Neelix is the coolest way of keeping impact aware and a very private digital diary or blog for yourself, team, enterprise or community.
-Find out more at [https://reflect.neelix.io](https://reflect.neelix.io) .
+## Always-on Feedback Platform
+Neelix is always-on feedback platform that helps teams and individuals to evolve with powerful insights gained from raw, unfiltered feedback about past, present and future experiences.
 
 Use this board to lodge feature requests or bug reports.
 
@@ -18,4 +16,5 @@ Use this board to lodge feature requests or bug reports.
 
 ## Brochureware
 
-- [Documentation](https://reflect.neelix.io)
+- Teams and organisations [https://www.neelix.team](https://www.neelix.team).
+- Personal journal users [https://www.neelix.me](https://www.neelix.me).
