@@ -16,5 +16,5 @@ Use this board to lodge feature requests or bug reports.
 
 ## Brochureware
 
-- Teams and organisations [https://www.neelix.team](https://www.neelix.team).
-- Personal journal users [https://www.neelix.me](https://www.neelix.me).
+- Teams and organisations [https://www.neelix.team](https://team.neelix.io).
+- Personal journal users [https://www.neelix.me](https://reflect.neelix.io).
