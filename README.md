@@ -2,7 +2,7 @@
 # Community Support
 
 ## Always-on Feedback Platform
-Neelix is always-on feedback platform that helps teams and individuals to evolve with powerful insights gained from raw, unfiltered feedback about past, present and future experiences.
+Neelix™ platform seeks to improve engagement, promote critical self-reflection and group journaling in order to improve mental health in the community and workplace. 
 
 Use this board to lodge feature requests or bug reports.
 
@@ -17,4 +17,5 @@ Use this board to lodge feature requests or bug reports.
 ## Brochureware
 
 - Teams and organisations [https://team.neelix.io](https://team.neelix.io).
+- Education institutions [https://education.neelix.io](https://education.neelix.io).
 - Personal journal users [https://reflect.neelix.io](https://reflect.neelix.io).
